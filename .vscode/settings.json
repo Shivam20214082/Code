@@ -1,7 +1,13 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
-        "string": "cpp"
+        "string": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
